@@ -9,12 +9,12 @@
   font-family: "ZhaohuaTitle-A";
   font-display: swap;
   font-style: normal;
-  src: url("https://StevenH1217.github.io/ZhaohuaTitle-Webfont/朝華標題A.woff2") format("woff2");
+  src: url("https://KHScara.github.io/ZhaohuaTitle-Webfont/朝華標題A.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "ZhaohuaTitle-B";
   font-display: swap;
   font-style: normal;
-  src: url("https://cdn.jsdelivr.net/gh/StevenH1217/ZhaohuaTitle-Webfont@main/朝華標題B.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/KHScara/ZhaohuaTitle-Webfont@main/朝華標題B.woff2") format("woff2");
 }
